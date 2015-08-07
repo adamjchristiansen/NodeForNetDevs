@@ -45,3 +45,9 @@ Temporary Items
 node_modules
 *~
 .DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
